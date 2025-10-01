@@ -31,7 +31,6 @@ When reporting a bug, please include:
 - **Expected behavior**: What should happen
 - **Actual behavior**: What actually happens
 - **Screenshots or recordings**: If applicable, visual evidence helps tremendously
-```
 
 ## ✨ Feature Requests
 
@@ -41,19 +40,6 @@ We love hearing your ideas! When suggesting a feature:
 - **Proposed solution**: How you envision this feature working
 - **Alternatives considered**: Other solutions you've thought about
 - **Use case**: Explain how this would improve your workflow
-
-## 🏷️ Labels
-
-We use labels to organize and prioritize issues:
-
-- `bug` - Something isn't working as expected
-- `feature-request` - New feature or enhancement suggestion
-- `documentation` - Documentation improvements
-- `duplicate` - This issue already exists
-- `wontfix` - This will not be worked on
-- `investigating` - We're looking into this
-- `in-progress` - Actively being worked on
-- `shipped` - This has been released
 
 ## 🤝 Community Guidelines
 
@@ -69,8 +55,7 @@ We use labels to organize and prioritize issues:
 ## 📬 Contact
 
 - **Website**: [flowdeck.studio](https://flowdeck.studio)
-- **Email**: support@flowdeck.studio
-- **Twitter**: [@flowdeck](https://twitter.com/flowdeck)
+- **Email**: hello@flowdeck.studio
 
 ## 📄 License
 
@@ -78,4 +63,4 @@ The content of this repository is licensed under [CC BY 4.0](https://creativecom
 
 ---
 
-Thank you for helping us make Flowdeck better! Your feedback and contributions to this issue tracker are invaluable to us. 💙
+Thank you for helping us make Flowdeck better! Your feedback and contributions to this issue tracker are invaluable. 💙
