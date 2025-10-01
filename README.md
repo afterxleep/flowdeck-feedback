@@ -1,4 +1,4 @@
-# Flowdeck Issues
+# Flowdeck Feedback
 
 Welcome to the public issue tracker for [Flowdeck](https://flowdeck.studio) 🚀
 
