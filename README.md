@@ -15,7 +15,7 @@ This repository serves as:
 ## 📝 Before You Submit an Issue
 
 1. **Search existing issues** to avoid duplicates
-2. **Check our documentation** at [flowdeck.studio/docs](https://flowdeck.studio/docs) (if applicable)
+2. **Check our documentation** at [docs/flowdeck.studio](https://docs.flowdeck.studio) (if applicable)
 3. **Verify you're using the latest version** of Flowdeck
 
 ## 🐛 Reporting Bugs
